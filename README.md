@@ -321,10 +321,3 @@ Tongliang Liu, Kede Ma, and Yifan Peng (The University of Hong Kong)
 }
 ```
 
----
-
-<div align="center">
-
-**JuZhou — 九州** | Edge-native AI generation, made in China, running on your device.
-
-</div>
