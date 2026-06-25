@@ -309,6 +309,11 @@ Shanzhi Gu, Yaoguang Jin
 ### Acknowledgments
 Tongliang Liu, Kede Ma, and Yifan Peng (The University of Hong Kong)
 
+### Special Acknowledgments
+JuZhou V1.0 was publicly unveiled at a launch event  in Changsha, China, on May 21, 2025. The accompanying livestream attracted approximately 426,000 cumulative online views. As we prepare for the forthcoming release of JuZhou V2.0, this technical report provides a consolidated account of JuZhou V1.0, covering its design, training pipeline, deployment practice, and empirical evaluation.
+
+We sincerely thank Sugon for its support in domestically developed AI computing infrastructure, including approximately 80 PFLOPS of K100 accelerator resources, which enabled the end-to-end training pipeline of this work. We also gratefully acknowledge support from the Hunan Provincial Key Research and Development Program under Grant No.~2025JK2146 and the Hunan Provincial College Student Entrepreneurship Investment Fund.
+
 ---
 
 ## 📌 Citation
