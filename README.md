@@ -435,9 +435,36 @@ We sincerely thank Sugon for its support in domestically developed AI computing 
 ## 📌 Citation
 
 ```bibtex
-@article{juzhou2026,
-  title={JuZhou 1.0 Technical Report: The First Edge-Native Text-to-Image Foundation Model Trained Entirely on China-Developed AI Accelerators},
-  author={JuZhou Team, HSW Group},
-  year={2026}
+@article{chen2026juzhou,
+  title   = {{JuZhou 1.0 Technical Report: The First Edge-Native
+             Text-to-Image Foundation Model Trained Entirely on
+             China-Developed AI Accelerators}},
+  author  = {Chen, Ce and
+             Wang, Congrui and
+             Li, Yonglin and
+             Wan, Zhenchen and
+             Geng, Mingyang and
+             Xiao, Junhao and
+             Xing, Zhengpeng and
+             Hu, Yaqing and
+             Wu, Yao and
+             Qu, Zhaoyang and
+             Lan, Long and
+             Liu, Xinwang and
+             Peng, Yingqi and
+             Li, Shijia and
+             Zhang, Zufeng and
+             Ma, Chen and
+             Zhou, Jingjing and
+             Wang, Xingyu and
+             Lu, Qilin and
+             Jiang, Bin and
+             Sun, Qilin and
+             Gu, Shanzhi and
+             Jin, Yaoguang},
+  journal = {arXiv preprint},
+  year    = {2026},
+  note    = {JuZhou Team, HSW Group. Project Leaders: Shanzhi Gu
+             and Yaoguang Jin}
 }
 ```
