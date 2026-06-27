@@ -180,13 +180,14 @@ The deployed Android application must handle raw classical poems directly. We fi
 ### Foundational Generation Quality (Qualitative)
 
 <p align="center">
+  <em><b>Ours (28 steps)</b> &nbsp;&nbsp; <b>SD1.5</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>SD2.1</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>SDXL</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>SD3.5-L</b></em>
   <img src="assets/jz_sample1.jpg" width="19%">
   <img src="assets/sd15_sample1.jpg" width="19%">
   <img src="assets/sd21_sample1.jpg" width="19%">
   <img src="assets/sdxl_sample1.jpg" width="19%">
   <img src="assets/sd35_sample1.jpg" width="19%">
   <br>
-  <em><b>Ours (28 steps)</b> &nbsp;&nbsp; <b>SD1.5</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>SD2.1</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>SDXL</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>SD3.5-L</b></em>
+  <em><b>Ours (28 steps)</b> &nbsp;&nbsp; <b>SD1.5</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>SD2.1</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>SDXL</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>SD3.5-L</b></em>
 </p>
 
 <p align="center">
@@ -251,7 +252,7 @@ The deployed Android application must handle raw classical poems directly. We fi
   <img src="assets/poetry_comic.jpg" width="23%">
   <img src="assets/poetry_chinese.jpg" width="23%">
   <br>
-  <em><b>Pop Art</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>3D Animated Film</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Comic</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Chinese Classical Painting</b></em>
+  <em><b>Pop Art</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>3D Animated Film</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Comic</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Chinese Classical Painting</b></em>
   <br>
   <em>月到中秋例属苏 — Poetry-to-image generation under diverse artistic styles.</em>
 </p>
