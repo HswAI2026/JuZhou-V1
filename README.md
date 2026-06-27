@@ -214,13 +214,15 @@ The deployed Android application must handle raw classical poems directly. We fi
 ### Distillation Efficacy: 28 Steps → 4 Steps
 
 <p align="center">
+  <em><b>4 steps (orig.)</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>8 steps</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>16 steps</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>28 steps</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>4 steps (distilled)</b></em>
+   <br>
   <img src="assets/distill_4step.jpg" width="19%">
   <img src="assets/distill_8step.jpg" width="19%">
   <img src="assets/distill_16step.jpg" width="19%">
   <img src="assets/distill_28step.jpg" width="19%">
   <img src="assets/distill_dmd4.jpg" width="19%">
   <br>
-  <em><b>4 steps (orig.)</b> &nbsp; <b>8 steps</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>16 steps</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>28 steps</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>4 steps (distilled)</b></em>
+  <em>cinematic portrait of a medieval knight wearing detailed silver armor, dramatic lighting, ultra realistic, 8k.</em>
 </p>
 
 <p align="center">
@@ -229,8 +231,6 @@ The deployed Android application must handle raw classical poems directly. We fi
   <img src="assets/28vs4_16step_row1.jpg" width="19%">
   <img src="assets/28vs4_28step_row1.jpg" width="19%">
   <img src="assets/28vs4_dmd4_row1.jpg" width="19%">
-  <br>
-  <em><b>4 steps (orig.)</b> &nbsp; <b>8 steps</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>16 steps</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>28 steps</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>4 steps (distilled)</b></em>
   <br>
   <em>Medieval knight in detailed silver armor. The non-distilled model suffers structural collapse at lower steps, while the distilled 4-step model maintains visual fidelity nearly identical to the 28-step baseline.</em>
 </p>
