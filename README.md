@@ -320,6 +320,33 @@ The Android deployment adopts a **heterogeneous CPU–NPU runtime strategy**: pr
 | iQOO Neo11 | Snap. 8 Elite | Android 16 | 3.5 s | 5.1 s | 200 MB | 1.3 GB |
 | Redmi K60 | Snap. 8+ Gen 1 | Android 15 | 9.5 s | 12.7 s | 180 MB | 1.3 GB |
 
+### On-Device Runtime Demonstrations
+
+The following demonstrations show Mojie running JuZhou 1.0 under two mobile runtime configurations. The **CPU–NPU** group follows the validated Android deployment path reported above, where the prompt-refinement language model runs on CPU and the JuZhou image-generation modules run on NPU. The **All-NPU** group is a supplementary runtime demonstration in which both prompt refinement and JuZhou generation are scheduled on NPU where supported. These clips illustrate interactive on-device execution.
+
+<p align="center"><strong>CPU–NPU Heterogeneous Runtime</strong></p>
+
+<p align="center">
+  <img src="assets/mojie/1.gif" width="23%">
+  <img src="assets/mojie/2.gif" width="23%">
+  <img src="assets/mojie/3.gif" width="23%">
+  <img src="assets/mojie/4.gif" width="23%">
+  <br>
+  <em>On-device generation in the Mojie 墨界 app — prompt refinement on CPU (MNN) + U-Net/VAE on NPU (QNN).</em>
+</p>
+
+<p align="center"><strong>All-NPU Runtime Demonstration</strong></p>
+
+<p align="center">
+  <img src="assets/npu/1.gif" width="23%">
+  <img src="assets/npu/2.gif" width="23%">
+  <img src="assets/npu/3.gif" width="23%">
+  <img src="assets/npu/4.gif" width="23%">
+  <br>
+  <em>Pure NPU execution — both prompt refinement and JuZhou generation run entirely on the neural processing unit.</em>
+</p>
+
+
 ### On-Device U-Net Profiling (4-step, 1024×1024)
 
 | Model | Denoiser+VAE | Platform (SoC) | Precision | Peak Mem | 4-step Total |
